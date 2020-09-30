@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+
+require("./File Creation/new.js").createfolder();
